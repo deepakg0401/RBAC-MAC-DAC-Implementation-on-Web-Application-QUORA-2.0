@@ -57,6 +57,6 @@ Implemented RBAC, MAC, DAC on a web application Quora 2.0,as in the web app thei
          - **a.** Username- dtushar279@gmail.com
           -**b.** Password- tushar123
 - **7.** To view screenshots of the web application:
-         - **a.**Open quora2.0/Quora2.0_SS.pdf
+         - **a.** Open quora2.0/Quora2.0_SS.pdf
 
 
